@@ -33,6 +33,8 @@ Style sheets apply consistent typography and formatting rules across an entire l
 
 Direct publishing to WordPress, Medium, and Ghost sends finished writing to its destination without exporting and re-uploading files manually, closing the loop between drafting and publication.
 
+iCloud and Dropbox sync keep the entire writing library current across every Mac and iOS device, so a project started on one machine continues seamlessly on another.
+
 Ulysses Professional Suite is the platform for writers who treat their craft as a sustained practice and want one tool that organizes, writes, and ships every piece of long-form work.
 
 ---
